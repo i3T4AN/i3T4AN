@@ -1,9 +1,8 @@
 <h1 align="center">I'm Ethan Blair</h1>
 <h3 align="center">I study Information Technology and programming.</h3>
 
-- I’m currently working on **Automated testing with Mabl**
+- I’m currently working on **Agentic development**
 
-- I’m currently learning about **AI frameworks and agents**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
