@@ -1,6 +1,8 @@
 <h1 align="center">I'm Ethan Blair</h1>
 <h3 align="center">My focus is on enterprise technology, automation, and AI development. I enjoy building practical tools that make systems work more efficiently.</h3>
-________________________________________________________________________________________________________________________
+<h3 align="center">________________________________________________________________</h3>
+
+
 <h3 align="center">I'm Currently Working On</h3>
 
 -   [An LM studio Proxy](https://github.com/i3T4AN/lmstudio-openai-proxy)
