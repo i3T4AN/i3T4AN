@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ethan-blair-99a3b72a2" target="_blank">
+<a href="https://linkedin.com/in/ethan-e-blair" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
 </a>
 
