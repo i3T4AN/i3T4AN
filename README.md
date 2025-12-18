@@ -13,9 +13,8 @@
 
 <div align="center">
 
-- **[LM Studio Proxy](https://github.com/i3T4AN/lmstudio-openai-proxy)** - OpenAI-compatible API proxy for LM Studio
-- **[Azure AD Audit Script](https://github.com/i3T4AN/audit-AD-Computers)** - Automated Azure Active Directory computer auditing
-- **[AppleScript Device Rename](https://github.com/i3T4AN/applescript-device-rename)** - Automation scripts for device management
+- **[Vector Knowledge Base](https://github.com/i3T4AN/Vector-Knowledge-Base)** - A semantic search engine that transforms your documents into an intelligent, searchable knowledge base using vector embeddings and AI
+- **[SteamDock](https://github.com/i3T4AN/streamdock)** - Search, download, and stream your media in one place. Features automated metadata fetching, background transcoding, and a beautiful web UI.
 - **[Portfolio Website](https://i3t4an.github.io/)** - My personal portfolio and projects showcase
 
 </div>
