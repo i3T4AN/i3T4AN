@@ -9,15 +9,9 @@
   <h3>I enjoy building practical tools that make systems work more efficiently.</h3>
 </div>
 
-## I'm Currently Working On
+## About Me
 
-<div align="center">
-
-- **[Vector Knowledge Base](https://github.com/i3T4AN/Vector-Knowledge-Base)** - A semantic search engine that transforms your documents into an intelligent, searchable knowledge base using vector embeddings and AI
-- **[SteamDock](https://github.com/i3T4AN/streamdock)** - Search, download, and stream your media in one place. Features automated metadata fetching, background transcoding, and a beautiful web UI.
-- **[Portfolio Website](https://i3t4an.github.io/)** - My personal portfolio and projects showcase
-
-</div>
+I'm a Desktop Engineer focused on enterprise systems, automation, and applied AI development. I build practical tools that improve reliability, reduce manual effort, and make technical systems work more efficiently.
 
 ## Connect with me
 
@@ -28,6 +22,30 @@
 </a>
 
 </div>
+
+## Websites
+
+<div align="center">
+
+<a href="https://i3t4an.github.io" target="_blank">i3t4an.github.io</a>
+<br />
+<a href="https://wtms.live" target="_blank">wtms.live</a>
+
+</div>
+
+## Featured Projects
+
+- **[Vector-Knowledge-Base](https://github.com/i3T4AN/Vector-Knowledge-Base)** — A semantic search engine that transforms documents into an intelligent, searchable knowledge base using vector embeddings and AI.
+- **[Semantic-skill-space](https://github.com/i3T4AN/Semantic-skill-space)** — Semantic Skill Space (SSS): injecting skill embeddings into KV cache for small-model agents to recover skill behavior with lower prompt-context overhead.
+- **[Kali_Linux_MCP](https://github.com/i3T4AN/Kali_Linux_MCP)** — Two-component system bridging Kali Linux penetration testing tools with AI agents via MCP.
+- **[LIBRE-HACKTIVATOR_iOS_12-16](https://github.com/i3T4AN/LIBRE-HACKTIVATOR_iOS_12-16)** — Open-source iOS 12–16 bypass toolkit for checkm8-vulnerable iPhone and iPad devices.
+
+## Current Focus
+
+- Enterprise endpoint engineering
+- Automation and systems reliability
+- Applied AI development
+- Practical full-stack tooling
 
 ## Languages and Tools
 
@@ -56,9 +74,6 @@
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -102,7 +117,6 @@
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=i3t4an&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i3t4an&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i3t4an&theme=dark" alt="GitHub Contribution Streak" width="48%" />
 </div>
