@@ -23,7 +23,7 @@
 
 ---
 
-I’m Ethan Blair, a University of Northern Colorado graduate in Computer Information Systems and a Desktop Engineer. I build automation, applied AI, and software solutions that reduce manual work, improve reliability, and help enterprise systems operate more efficiently at scale.
+I’m Ethan Blair, a Desktop Engineer and University of Northern Colorado graduate in Computer Information Systems. I build automation, applied AI, and software solutions that reduce manual work, improve reliability, and simplify enterprise systems. Much of that work starts in my homelab, where I build, test, and iterate on projects using Gitea before publishing them to GitHub once they’re ready.
 
 <br>
 
