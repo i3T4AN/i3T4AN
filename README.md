@@ -1,122 +1,227 @@
 <div align="center">
 
-# Hi there, I'm Ethan Blair
+# Ethan Blair
 
-</div>
+### Enterprise Systems • Automation • Applied AI
 
-<div align="center">
-  <h3>My focus is on enterprise technology, automation, and AI development.</h3>
-  <h3>I enjoy building practical tools that make systems work more efficiently.</h3>
-</div>
+**Building Practical Automation for Enterprise Systems.**
 
-## About Me
+<br>
 
-I'm a Desktop Engineer focused on enterprise systems, automation, and applied AI development. I build practical tools that improve reliability, reduce manual effort, and make technical systems work more efficiently.
-
-## Connect with me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ethan-e-blair" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+<a href="https://i3t4an.github.io">
+  <img src="https://img.shields.io/badge/Website-i3t4an.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website">
+</a>
+<a href="https://www.linkedin.com/in/ethan-e-blair/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ethan_Blair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-</div>
+<br><br>
 
-## Websites
-
-<div align="center">
-
-<a href="https://i3t4an.github.io" target="_blank">i3t4an.github.io</a>
-<br />
-<a href="https://wtms.live" target="_blank">wtms.live</a>
+<img src="https://img.shields.io/github/followers/i3T4AN?style=flat-square&logo=github&label=Followers" alt="GitHub Followers">
 
 </div>
+
+---
+
+I’m Ethan Blair, a University of Northern Colorado graduate in Computer Information Systems and a Desktop Engineer. I build automation, applied AI, and software solutions that reduce manual work, improve reliability, and help enterprise systems operate more efficiently at scale.
+
+<br>
 
 ## Featured Projects
 
-- **[Vector-Knowledge-Base](https://github.com/i3T4AN/Vector-Knowledge-Base)** — A semantic search engine that transforms documents into an intelligent, searchable knowledge base using vector embeddings and AI.
-- **[Semantic-skill-space](https://github.com/i3T4AN/Semantic-skill-space)** — Semantic Skill Space (SSS): injecting skill embeddings into KV cache for small-model agents to recover skill behavior with lower prompt-context overhead.
-- **[Kali_Linux_MCP](https://github.com/i3T4AN/Kali_Linux_MCP)** — Two-component system bridging Kali Linux penetration testing tools with AI agents via MCP.
-- **[LIBRE-HACKTIVATOR_iOS_12-16](https://github.com/i3T4AN/LIBRE-HACKTIVATOR_iOS_12-16)** — Open-source iOS 12–16 bypass toolkit for checkm8-vulnerable iPhone and iPad devices.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Current Focus
+### 🧬 [KADATH](https://github.com/i3T4AN/KADATH)
 
-- Enterprise endpoint engineering
-- Automation and systems reliability
-- Applied AI development
-- Practical full-stack tooling
+**Evolutionary multi-agent systems**
 
-## Languages and Tools
+An evolutionary runtime that breeds, evaluates, mutates, and improves autonomous agents across reproducible epochs.
 
-<div align="center">
+KADATH evolves complete agent genomes — prompts, Python implementations, tools, dependencies, and supporting files — against locked benchmarks and independently graded evidence.
 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a>
+<br>
 
-</div>
+[![Stars](https://img.shields.io/github/stars/i3T4AN/KADATH?style=flat-square&logo=github&label=Stars)](https://github.com/i3T4AN/KADATH/stargazers)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## GitHub Stats
+</td>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i3t4an&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i3t4an&theme=dark" alt="GitHub Contribution Streak" width="48%" />
-</div>
+<td width="50%" valign="top">
+
+### 📱 [LIBRE-HACKTIVATOR](https://github.com/i3T4AN/LIBRE-HACKTIVATOR_iOS_12-16)
+
+**iOS security research & automation**
+
+Open-source iOS research toolkit for checkm8-vulnerable A8–A11 devices.
+
+Combines checkra1n / palera1n workflows with `libimobiledevice` automation and low-level iOS device tooling.
+
+<br>
+
+[![Stars](https://img.shields.io/github/stars/i3T4AN/LIBRE-HACKTIVATOR_iOS_12-16?style=flat-square&logo=github&label=Stars)](https://github.com/i3T4AN/LIBRE-HACKTIVATOR_iOS_12-16/stargazers)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Semantic Skill Space](https://github.com/i3T4AN/Semantic-skill-space)
+
+**Small-model skill injection research**
+
+Tests whether task-specific skill behavior can be injected directly into model KV-cache space instead of consuming context with full markdown skill files.
+
+Evaluates zero-shot, traditional skill prompting, and vector-based KV injection using a frozen `Qwen2.5-0.5B-Instruct` model.
+
+<br>
+
+[![Stars](https://img.shields.io/github/stars/i3T4AN/Semantic-skill-space?style=flat-square&logo=github&label=Stars)](https://github.com/i3T4AN/Semantic-skill-space/stargazers)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18830835-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.18830835)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔎 [Vector Knowledge Base](https://github.com/i3T4AN/Vector-Knowledge-Base)
+
+**Semantic document search & retrieval**
+
+A knowledge-base platform that turns documents, spreadsheets, presentations, images, and source code into a searchable semantic index.
+
+Uses SentenceTransformers, Qdrant, FastAPI, automatic HDBSCAN clustering, TF-IDF cluster naming, 3D embedding visualization, multi-format ingestion, and MCP integration.
+
+<br>
+
+[![Stars](https://img.shields.io/github/stars/i3T4AN/Vector-Knowledge-Base?style=flat-square&logo=github&label=Stars)](https://github.com/i3T4AN/Vector-Knowledge-Base/stargazers)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Engineering Deep Dives
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 [Janus-OmniKey](https://github.com/i3T4AN/janus-omnikey)
+
+**Raspberry Pi USB automation**
+
+Turns a Raspberry Pi 4 into a composite USB device for explicitly authorized host automation.
+
+Presents USB networking, serial communication, and an onboarding drive, then verifies SSH pairing and executes preloaded OS-specific payloads across Windows, macOS, and Linux.
+
+<br>
+
+[![Stars](https://img.shields.io/github/stars/i3T4AN/janus-omnikey?style=flat-square&logo=github&label=Stars)](https://github.com/i3T4AN/janus-omnikey/stargazers)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 [Binary Archaeologist](https://github.com/i3T4AN/binary-archaeologist)
+
+**Binary analysis without dependencies**
+
+A local CLI for taking a first pass at unfamiliar binary files.
+
+Maps signatures, embedded formats, strings, padding, entropy regions, numeric relationships, repeated records, TLV structures, offsets, checksum candidates, and probable structural boundaries into a readable analysis report.
+
+<br>
+
+[![Stars](https://img.shields.io/github/stars/i3T4AN/binary-archaeologist?style=flat-square&logo=github&label=Stars)](https://github.com/i3T4AN/binary-archaeologist/stargazers)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dependencies](https://img.shields.io/badge/Runtime_Dependencies-0-2ea44f?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [Intune Kiosk Template Builder](https://github.com/i3T4AN/intune-kiosk-template-builder)
+
+**Enterprise endpoint automation**
+
+Interactive PowerShell utility for creating ready-to-deploy Microsoft Intune Windows kiosk packages.
+
+Generates matched installers and uninstallers with Assigned Access configuration, application discovery, SYSTEM-context validation, logging, policy backup/restoration, and deployment safeguards.
+
+<br>
+
+[![Stars](https://img.shields.io/github/stars/i3T4AN/intune-kiosk-template-builder?style=flat-square&logo=github&label=Stars)](https://github.com/i3T4AN/intune-kiosk-template-builder/stargazers)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗃️ [Archivist MCP](https://github.com/i3T4AN/Archivist-MCP)
+
+**Persistent project memory for coding agents**
+
+A local-first memory layer that lets coding agents retain and retrieve decisions, incidents, rules, entities, and architecture context across sessions.
+
+Includes SQLite-backed storage, hybrid retrieval, typed graph relationships, audit history, conflict handling, MCP over stdio and HTTP, team-mode SSE, and a Web UI for human review.
+
+<br>
+
+[![Stars](https://img.shields.io/github/stars/i3T4AN/Archivist-MCP?style=flat-square&logo=github&label=Stars)](https://github.com/i3T4AN/Archivist-MCP/stargazers)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Languages & Frameworks
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![AppleScript](https://img.shields.io/badge/AppleScript-000000?style=flat-square&logo=apple&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-555555?style=flat-square)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+### Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
